@@ -1,0 +1,13 @@
+body {
+    background-image: url("../img/stars-bb.gif");
+    color: white;
+}
+
+.under_construction {
+    background-image: url("../img/under_construction.gif");
+    min-height: 175px;
+}
+
+a {
+    color: red;
+}
